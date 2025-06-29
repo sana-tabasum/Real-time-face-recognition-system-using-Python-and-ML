@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.npy
+*.zip
+*.mp4
+*.avi
+*datasets.zipdatasets.zip
